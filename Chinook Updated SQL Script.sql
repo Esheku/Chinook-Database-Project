@@ -1,3 +1,4 @@
+-- SQL PROMPT IS SQLITE
 -- Top-Selling Artists: Identify artists with the highest sales and analyze their sales trends over time.
 
 CREATE TEMP TABLE ArtistSales AS 
